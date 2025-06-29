@@ -1,6 +1,9 @@
+
+(https://media.licdn.com/dms/image/v2/D4D16AQG9MxG9oFiDBg/profile-displaybackgroundimage-shrink_350_1400/B4DZe6i6E.GUAg-/0/1751181410391?e=1756944000&v=beta&t=vJggGGG4JP1Z3MsJCVTz-rKBJFZK0Nu5kqj5K4pmmKc)
+
 ### Hi there 👋, I'm Rejowan Ferdous Khan
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQG9MxG9oFiDBg/profile-displaybackgroundimage-shrink_350_1400/B4DZe6i6E.GUAg-/0/1751181410391?e=1756944000&v=beta&t=vJggGGG4JP1Z3MsJCVTz-rKBJFZK0Nu5kqj5K4pmmKc)
+![Web Developer]
 
 Hi! I’m a Computer Science student at Feni University, passionate about web development and programming. I enjoy learning new technologies and building simple projects with HTML, CSS, JavaScript, and Python. Currently, I am exploring Git and GitHub to improve my collaboration and version control skills. Always open to learning and sharing knowledge!
 
