@@ -1,5 +1,3 @@
-
-![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQG9MxG9oFiDBg/profile-displaybackgroundimage-shrink_350_1400/B4DZe6i6E.GUAg-/0/1751181410391?e=1762992000&v=beta&t=ILPNABIvQ6q5JOdbDCGbnjfLra91mhx0LVrwvZm0dD0)
 ### Hi there 👋, I'm Rejowan Ferdous Khan
 #### Web Developer
 
